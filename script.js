@@ -1,3 +1,4 @@
+//your code here
 document.addEventListener('DOMContentLoaded', () => {
   const getUserButton = document.getElementById('getUser');
   const infoButtons = document.querySelectorAll('.info-button');
